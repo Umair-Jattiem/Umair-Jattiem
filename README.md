@@ -36,7 +36,7 @@ Building scalable solutions with modern technologies
 ---
 
 ### 📈 What I'm Focused On
-- Writing clean, testable code
+- Test Accordingly
 - Improving **automation testing skills (Cypress)**
 - Strengthening **backend & database knowledge**
 - Learning how to **build and scale tech-driven businesses**
@@ -58,4 +58,4 @@ Building scalable solutions with modern technologies
 ---
 
 ### ⚡ Personal Motto
-> "Learn skills. Build systems. Create freedom."
+> "Learn skills. Unbiased Testing. Create freedom."

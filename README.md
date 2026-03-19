@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umair Jattiem</h1>
+<h1 align="center">Hi , I'm Umair Jattiem</h1>
 <h3 align="center">
 Aspiring Tech Entrepreneur 🚀 | Quality Engineering @ redAcademy <br/>
 Building scalable solutions with modern technologies

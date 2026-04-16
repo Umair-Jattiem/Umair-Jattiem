@@ -43,7 +43,6 @@ Building skills → Creating systems → Scaling businesses
 
 ### 🔥 2026 Goals
 - 🚧 Build real-world **QA + database projects**
-- ⚡ Launch at least **1 tech-based income stream**
 - 📊 Strengthen **problem-solving & debugging skills**
 - 💡 Transition from learner → **builder**
 

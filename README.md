@@ -10,7 +10,7 @@ Building skills → Creating systems → Scaling businesses
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🎯 Focused on becoming a **tech entrepreneur through engineering**
 - 🧠 Currently mastering **SQL, databases & backend logic**
 - ⚙️ Learning **automation testing (Cypress) & API testing (Postman)**

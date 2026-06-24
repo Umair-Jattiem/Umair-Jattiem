@@ -44,7 +44,6 @@ My focus is developing strong engineering fundamentals, understanding how system
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
@@ -95,17 +94,14 @@ A full Quality Engineering project focused on validating an e-commerce platform 
 
 ✔ SQL Query Development
 
-✔ Version Control with Git
-
 ---
 
 ## 🎯 2026 Goals
 
-- Build a strong portfolio of QA and database projects
+- Build a strong portfolio of QE and database projects
 - Master automation testing frameworks
 - Improve debugging and problem-solving skills
 - Gain real-world industry experience
-- Continue progressing toward building scalable technology businesses
 
 ---
 
@@ -124,9 +120,6 @@ A full Quality Engineering project focused on validating an e-commerce platform 
 >
 > Solve real problems.
 >
-> Build systems that scale.
->
-> Create freedom through ownership.
 
 ---
 
